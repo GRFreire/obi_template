@@ -1,0 +1,14 @@
+{
+  "name": "obi-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "header.js",
+  "directories": {
+    "example": "example"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "scanf-printf-obi": "^1.0.0"
+  }
+}
